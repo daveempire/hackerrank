@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# https://www.hackerrank.com/challenges/alternating-characters/problem
+
 import math
 import os
 import random
